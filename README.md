@@ -7,15 +7,15 @@
 <h2 id="༺༃ঌ心༒幻໒༃༻" align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   ༺༃ঌ心༒幻໒༃༻
+   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
-
 
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Yuanhao-Zhong&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=心尘随风落,幻影逐云流&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=༺༃ঌ心༒幻໒༃༻&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=心尘随风落,幻影逐云流&descAlignY=55" />
   
-  # 👋 我是 ༺༃ঌ心༒幻໒༃༻
+  <!-- # 👋 我是 ༺༃ঌ心༒幻໒༃༻ -->
   
   <!-- 更改轮播内容和动画速度 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
