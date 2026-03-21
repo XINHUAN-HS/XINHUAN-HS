@@ -13,7 +13,7 @@
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=༺༃ঌ心༒幻໒༃༻&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=心尘随风落,幻影逐云流&descAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=༺༃ঌ心༒幻໒༃༻&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=心尘随风落,幻影逐云流&descAlignY=65" />
   
   <!-- # 👋 我是 ༺༃ঌ心༒幻໒༃༻ -->
   
