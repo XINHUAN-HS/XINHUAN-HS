@@ -18,7 +18,7 @@
   <!-- # 👋 我是 ༺༃ঌ心༒幻໒༃༻ -->
   
   <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=Py爱好者+%7C+DB研究者+%7C+Web开发者;探索能力边界，获取成就体验;代码改变自我，思考创造新生;༺༃ঌ心༒幻໒༃༻)](https://git.io/typing-svg)
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
@@ -35,15 +35,14 @@
   </p>
 
 <!-- 动态访问计数器 - 增强效果 -->
-  <p>
+  <!-- <p>
     <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
     <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
     <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
-    
-  </p>
-  <p>
+  </p> -->
+  <!-- <p>
   <img src="https://profile-counter.glitch.me/{zyh3699}/count.svg" alt="访问计数器" />
-  </p>
+  </p> -->
 </div>
 
 <!-- 添加动态波浪分隔符 -->
@@ -196,11 +195,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
 
 <!-- 动态分隔符 -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
+</div> -->
 
-<h2 id="许可协议" align="center">
+<!-- <h2 id="许可协议" align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   许可协议
 </h2>
@@ -226,12 +225,12 @@
       <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License" />
     </a>
   </p>
-</div>
+</div> -->
 
 <!-- 页脚 -->
-<p align="center">
+<!-- <p align="center">
   <i>如果您觉得这个模板有帮助，请考虑给一个⭐️支持一下!</i> 
-</p>
+</p> -->
 
 <!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/> -->
