@@ -1,6 +1,5 @@
 
-# ⚡ 心幻 · 赛博空间 // CYBER-NEXUS
-
+# ⚡ 心幻 · 赛博空间
 ██████╗ ██╗██╗  ██╗██╗  ██╗ ██╗ ██╗   ██╗ ██╗  ██╗ █████╗ ███╗   ██╗
 ██╔═══██╗██║╚██╗██╔╝██║  ██║███║ ██║   ██║ ██║ ██╔╝██╔══██╗████╗  ██║
 ██║   ██║██║ ╚███╔╝ ███████║╚██║ ██║   ██║ █████╔╝ ███████║██╔██╗ ██║
@@ -27,10 +26,45 @@
 
 ---
 
-## 🛠️ 赛博增强
+## 🛠️ 赛博增强（动态图标）
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,php,mysql,redis,html,css,js,react,vue,nodejs,linux,git,docker,vscode&perline=9" alt="Skills" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="48" height="48" />
+        <br>Go
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="48" height="48" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" width="48" height="48" />
+        <br>Vue
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+        <br>Docker
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -38,7 +72,7 @@
 ## 📦 项目仓库
 
 <div align="center">
-  <div style="display: inline-block; margin: 8px; border: 2px solid #FF5F6D; border-radius: 12px; box-shadow: 0 0 15px rgba(255,95,109,0.5); overflow: hidden;">
+  <div style="display: inline-block; margin: 8px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden;">
     <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" width="380" />
     </a>
@@ -48,7 +82,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" width="380" />
     </a>
   </div>
-  <div style="display: inline-block; margin: 8px; border: 2px solid #FFC371; border-radius: 12px; box-shadow: 0 0 15px rgba(255,195,113,0.5); overflow: hidden;">
+  <div style="display: inline-block; margin: 8px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden;">
     <a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" width="380" />
     </a>
