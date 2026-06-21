@@ -1,125 +1,225 @@
+<!-- 终端风格 CSS 注入 -->
+<style>
+body {
+    background-color: #000 !important;
+    color: #00ff41 !important;
+    font-family: 'Courier New', monospace !important;
+    margin: 0;
+    padding: 10px;
+    line-height: 1.2;
+}
+a { color: #00ffff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: rgba(0,20,0,0.5); }
+::-webkit-scrollbar-thumb { background: #00ff41; border-radius: 2px; }
+
+/* 终端容器 */
+.terminal-window {
+    border: 1px solid #00ff41;
+    box-shadow: 0 0 15px rgba(0, 255, 65, 0.3);
+    margin: 15px 0;
+    background: rgba(0, 20, 0, 0.2);
+}
+.terminal-header {
+    background: linear-gradient(90deg, #003300 0%, #006600 100%);
+    padding: 5px 10px;
+    font-size: 12px;
+    border-bottom: 1px solid #00ff41;
+}
+.terminal-content {
+    padding: 15px;
+}
+.terminal-prompt::before { content: "root@xinhuan:~# "; color: #ff5f6d; }
+.terminal-cursor {
+    display: inline-block;
+    width: 8px;
+    height: 16px;
+    background: #00ff41;
+    animation: blink 1s infinite;
+    vertical-align: middle;
+}
+@keyframes blink { 0%,50% { opacity: 1; } 51%,100% { opacity: 0; } }
+
+/* 进度条 */
+.progress-bar {
+    display: inline-block;
+    width: 200px;
+    height: 12px;
+    border: 1px solid #00ff41;
+    background: #001100;
+    position: relative;
+    margin: 0 10px;
+}
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #003300 0%, #00ff41 100%);
+    transition: width 2s ease;
+}
+
+/* 卡片网格 */
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 15px;
+    margin: 15px 0;
+}
+.terminal-card {
+    border: 1px solid #00ff41;
+    background: rgba(0, 30, 0, 0.3);
+    padding: 10px;
+}
+.card-title {
+    color: #00ffff;
+    border-bottom: 1px dashed #00ff41;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+</style>
+
+<!-- ASCII 启动画面 -->
+<pre class="terminal-window">
+┌─────────────────────────────────────────────────────────────┐
+│                    SYSTEM BOOT SEQUENCE                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ██╗  ██╗██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗               │
+│  ╚██╗██╔╝██║  ██║██║   ██║██╔══██╗████╗  ██║               │
+│   ╚███╔╝ ███████║██║   ██║███████║██╔██╗ ██║               │
+│   ██╔██╗ ██╔══██║██║   ██║██╔══██║██║╚██╗██║               │
+│  ██╔╝ ██╗██║  ██║╚██████╔╝██║  ██║██║ ╚████║               │
+│  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝               │
+│                                                             │
+│  > INITIALIZING NEURAL NETWORKS... DONE                    │
+│  > LOADING LLM MODELS... DONE                              │
+│  > CONNECTING TO GITHUB API... DONE                        │
+│  > SYSTEM READY                                             │
+│                                                             │
+│  USER: XINHUAN-HS                                           │
+│  CLEARANCE: ROOT                                            │
+│  LAST LOGIN: 2026-06-21 10:00:00 UTC                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+</pre>
+
+## <div class="terminal-prompt">核心能力扫描 [CAPABILITY_SCAN]</div>
+
+<div class="card-grid">
+<div class="terminal-card">
+<div class="card-title">>> AI/ML ENGINE</div>
+<pre>
+[████████████████████] 100% LLM Training
+[██████████████████░░]  95% RLHF Tuning
+[████████████████████] 100% Multi-Agent Systems
+[███████████████████░]  98% Model Deployment
+</pre>
+</div>
+
+<div class="terminal-card">
+<div class="card-title">>> SYSTEM ARCHITECTURE</div>
+<pre>
+[████████████████████] 100% Distributed DB
+[████████████████████] 100% Vector DB (RAG)
+[███████████████████░]  97% Knowledge Graphs
+[████████████████████] 100% Cloud Infrastructure
+</pre>
+</div>
+</div>
+
+## <div class="terminal-prompt">实时系统监控 [SYSTEM_MONITOR]</div>
+
+<div class="terminal-window">
+<div class="terminal-header">[ ACTIVE_PROCESSES ]</div>
+<div class="terminal-content">
+
+<!-- GitHub Stats 终端化 -->
+<div class="card-grid">
+<div class="terminal-card">
+<div class="card-title">>> CONTRIBUTION STATS</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XINHUAN-HS&theme=transparent&background=000000&border_color=00ff41&title_color=00ffff&text_color=00ff41" width="100%"/>
+</div>
+
+<div class="terminal-card">
+<div class="card-title">>> LANGUAGE DISTRIBUTION</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XINHUAN-HS&theme=transparent&background=000000&border_color=00ff41&title_color=00ffff&text_color=00ff41" width="100%"/>
+</div>
+
+<div class="terminal-card">
+<div class="card-title">>> COMMIT ACTIVITY</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XINHUAN-HS&theme=transparent&background=000000&border_color=00ff41&title_color=00ffff&text_color=00ff41" width="100%"/>
+</div>
+</div>
+
+</div>
+</div>
+
+## <div class="terminal-prompt">神经网络活动图 [NEURAL_ACTIVITY]</div>
+
+<div class="terminal-window">
+<div class="terminal-header">[ CONTRIBUTION_GRAPH ]</div>
+<div class="terminal-content" align="center">
+
+<!-- 贪吃蛇动画终端化 -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" style="border: 1px solid #00ff41; filter: hue-rotate(90deg) saturate(2);"/>
+
+<pre>
+> ANALYZING PATTERN...
+> DETECTED: REGULAR COMMIT CYCLES
+> PREDICTION: HIGH ACTIVITY IN Q3 2026
+> STATUS: OPTIMAL
+</pre>
+</div>
+</div>
+
+## <div class="terminal-prompt">仓库索引 [REPOSITORY_INDEX]</div>
+
+<div class="terminal-window">
+<div class="terminal-header">[ ls -la ~/projects/ ]</div>
+<div class="terminal-content">
+
+| 仓库 | 描述 | 状态 | 星标 |
+|:----:|:-----|:----:|:----:|
+| [XINHUAN-HS](https://github.com/XINHUAN-HS/XINHUAN-HS) | 核心配置档案 | `ACTIVE` | ★ 42 |
+| [XinHuanNewTab](https://github.com/XINHUAN-HS/XinHuanNewTab) | 新标签页系统 | `STABLE` | ★ 18 |
+| [XinHuanToolKit](https://github.com/XINHUAN-HS/XinHuanToolKit) | 开发工具包 | `DEV` | ★ 31 |
+
+</div>
+</div>
+
+## <div class="terminal-prompt">系统诊断 [DIAGNOSTICS]</div>
+
+<pre class="terminal-window">
+> ping github.com
+64 bytes from github.com: seq=1 ttl=56 time=12.3 ms
+64 bytes from github.com: seq=2 ttl=56 time=11.9 ms
+
+> whoami
+root@xinhuan-hs
+
+> uptime
+10:00:00 up 365 days, load average: 0.42, 0.38, 0.41
+
+> free -h
+              total        used        free
+Mem:           32G          12G         20G
+Swap:          8G           0G          8G
+
+> echo $PHILOSOPHY
+"心尘随风落,幻影逐云流"
+
+> <span class="terminal-cursor"></span>
+</pre>
+
+---
+
 <div align="center">
-  <!-- 顶部动态横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=༺༃ঌ心༒幻໒༃༻&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white&desc=心怨逝水空余念,幻悔残云不向阳&descAlignY=60" />
-
-  <!-- 动态打字效果 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=BACKEND+%7C+FRONTEND+%7C+FULLSTACK;AI+System+%7C+LLM+%7C+Database;心尘随风落,幻影逐云流)](https://git.io/typing-svg)
-
-  <!-- 社交链接 & 访客统计 -->
-  <p align="center">
-    <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </p>
-  
-  <!-- 👁️ 访客统计 -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=PROFILE+VIEWS&color=FF5F6D&style=for-the-badge" alt="XINHUAN-HS" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&bg=000000" />
 </div>
 
-<!-- 分隔线 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="28px"/>
-  关于'我'
-</h2>
-
-<table border="0" cellspacing="0" cellpadding="10" width="100%">
-<tr>
-<td width="34%" valign="top">
-
-> ### 🧠 大语言模型与 AI
-> 🔬 **LLM 训练与微调**  
-> 🤖 **多智能体系统架构**  
-> ⚡ **模型推理与部署**  
-> 📊 **RLHF 与强化学习**
-
-</td>
-<td width="34%" valign="top">
-
-> ### 🧪 深度学习与 CV/NLP
-> 🔍 **计算机视觉**  
-> 📝 **自然语言处理**  
-> 📈 **时序预测与异常检测**  
-> 🔄 **迁移学习**
-
-</td>
-<td width="32%" valign="top">
-
-> ### 💾 数据库与系统
-> 🛢️ **分布式数据库**  
-> 🔍 **向量数据库 (RAG)**  
-> 📈 **大数据处理**  
-> 🌐 **知识图谱**
-
-</td>
-</tr>
-</table>
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"/>
-  核心技术栈
-</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,php,mysql,redis,html,css,js,linux,git,docker,vscode&perline=9" />
-</div>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px"/>
-  社区数据
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XINHUAN-HS&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XINHUAN-HS&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XINHUAN-HS&theme=radical" width="32%" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"/>
-  '我'的项目
-</h2>
-
-<div align="center">
-  <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-<a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-<a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/XINHUAN-HS?tab=repositories">
-    <img src="https://img.shields.io/badge/查看更多项目-前往仓库-%23FF5F6D?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
-<h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px"/>
-  贡献活动
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XINHUAN-HS&theme=radical" width="100%" />
-</div>
-
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30px"/>
-  ༺༃ঌ心༒幻໒༃༻
-</h3>
-
-<!-- 页脚波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling" width="100%"/>
+<pre align="center" style="border: 1px solid #00ff41; padding: 10px; display: inline-block;">
+┌──────────────────────────────────────────┐
+│  > CONNECTION TERMINATED                 │
+│  > SESSION CLOSED                        │
+│  > SYSTEM HIBERNATING...                 │
+└──────────────────────────────────────────┘
+</pre>
