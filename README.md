@@ -8,7 +8,7 @@
 ╚██████╔╝██║██╔╝ ██╗██║  ██║ ██║ ╚██████╔╝ ██║  ██╗██║  ██║██║ ╚████║
  ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝  ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
   </pre>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=2C9CDF&center=true&vCenter=true&width=800&lines=BACKEND+%7C+FRONTEND+%7C+FULLSTACK;AI+System+%7C+LLM+%7C+Database;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=2C9CDF&center=true&vCenter=true&width=800&lines=%7C;)](https://git.io/typing-svg)
   <p align="center">
     <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=PROFILE+VIEWS&color=FF5F6D&style=for-the-badge" alt="XINHUAN-HS" />
@@ -20,11 +20,13 @@
   量子态矩阵
 </h2>
 <div align="center">
+
 | **🔴 认知核心** | **🟡 神经通路** | **🟢 数据流** |
 |:---:|:---:|:---:|
-| `🧠 AI 架构师` | `🎯 LLM 微调` | `🗂️ 向量数据库` |
-| `🔗 神经网络` | `🤖 多智能体系统` | `🌐 知识图谱` |
-| `📈 深度学习` | `🔄 强化学习` | `⚡ 实时处理` |
+| `AI 架构师` | `LLM 微调` | `向量数据库` |
+| `神经网络` | `多智能体系统` | `知识图谱` |
+| `深度学习` | `强化学习` | `实时处理` |
+
 </div>
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"/>
