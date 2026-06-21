@@ -1,125 +1,104 @@
-<div align="center">
-  <!-- 顶部动态横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=༺༃ঌ心༒幻໒༃༻&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white&desc=心怨逝水空余念,幻悔残云不向阳&descAlignY=60" />
+⚡ CYBER-OPS // XINHUAN PROFILE ACTIVE
 
-  <!-- 动态打字效果 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=BACKEND+%7C+FRONTEND+%7C+FULLSTACK;AI+System+%7C+LLM+%7C+Database;心尘随风落,幻影逐云流)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=༺༃ঌ心༒幻໒༃༻&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white&desc=System.Load('幻').Execute()&descAlignY=60" />
+</p>
 
-  <!-- 社交链接 & 访客统计 -->
-  <p align="center">
-    <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </p>
-  
-  <!-- 👁️ 访客统计 -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=PROFILE+VIEWS&color=FF5F6D&style=for-the-badge" alt="XINHUAN-HS" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=root@xinhuan:~%23+whoami;AI+Architect+%7C+LLM+Engineer;Fullstack+Developer+%7C+System+Builder;while(alive)+{+create();+}" alt="Typing SVG" />
+</p>
 
-<!-- 分隔线 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<p align="center">
+  <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/></a>
+  <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=TERMINAL+VIEWS&color=00FF00&style=for-the-badge&labelColor=1a1a1a" alt="Views"/>
+</p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="28px"/>
-  关于'我'
-</h2>
+🖥️ SYSTEM STATUS
 
-<table border="0" cellspacing="0" cellpadding="10" width="100%">
-<tr>
-<td width="34%" valign="top">
+$ neofetch --config "XINHUAN-HS"
 
-> ### 🧠 大语言模型与 AI
-> 🔬 **LLM 训练与微调**  
-> 🤖 **多智能体系统架构**  
-> ⚡ **模型推理与部署**  
-> 📊 **RLHF 与强化学习**
-
-</td>
-<td width="34%" valign="top">
-
-> ### 🧪 深度学习与 CV/NLP
-> 🔍 **计算机视觉**  
-> 📝 **自然语言处理**  
-> 📈 **时序预测与异常检测**  
-> 🔄 **迁移学习**
-
-</td>
-<td width="32%" valign="top">
-
-> ### 💾 数据库与系统
-> 🛢️ **分布式数据库**  
-> 🔍 **向量数据库 (RAG)**  
-> 📈 **大数据处理**  
-> 🌐 **知识图谱**
-
-</td>
-</tr>
-</table>
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"/>
-  核心技术栈
-</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,php,mysql,redis,html,css,js,linux,git,docker,vscode&perline=9" />
+
+OS Kernel Shell Terminal
+
+AI-Linux v4.2 Neural 6.1.0 Zsh 5.9 Ghostty
+
 </div>
 
-<br/>
+🧠 CORE MODULES // 核心架构
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px"/>
-  社区数据
-</h2>
+graph LR
+    A[User Input] --> B{AI Core Engine}
+    B --> C[LLM Training]
+    B --> D[Multi-Agent System]
+    B --> E[Vector DB / RAG]
+    C --> F[Model Deployment]
+    D --> F
+    E --> F
+    F --> G[API Gateway]
+    G --> H[Client Interface]
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XINHUAN-HS&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XINHUAN-HS&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XINHUAN-HS&theme=radical" width="32%" />
-</div>
+    style A fill:#1a1a1a,stroke:#FF5F6D,stroke-width:2px
+    style B fill:#2d1b1b,stroke:#FF5F6D,stroke-width:2px,stroke-dasharray: 5 5
+    style G fill:#1a2d1b,stroke:#00FF00,stroke-width:2px
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"/>
-  '我'的项目
-</h2>
+
+<b>▶ 展开查看详细协议栈 [PROTOCOL STACK]</b>
+
+📦 PROJECT VAULT // 项目仓库
+
+$ ls -lha ./projects/
+total 42G
+drwxr-xr-x  7 root root 4.0K Jun 21 10:00 .
+drwxr-xr-x 15 root root 4.0K Jun 21 09:55 ..
+-rw-r--r--  1 root root 2.1G Jun 20 14:30 XinHuanToolKit/
+-rw-r--r--  1 root root 1.8G Jun 19 11:15 XinHuanNewTab/
+-rw-r--r--  1 root root 3.5G Jun 18 22:45 XINHUAN-HS/
+
 
 <div align="center">
   <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00" width="49%" />
   </a>
-<a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  <a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00" width="49%" />
   </a>
-<a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/XINHUAN-HS?tab=repositories">
-    <img src="https://img.shields.io/badge/查看更多项目-前往仓库-%23FF5F6D?style=for-the-badge&logo=github" />
+  <a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00" width="49%" />
   </a>
 </div>
 
-<h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px"/>
-  贡献活动
-</h2>
+📊 ANALYTICS TERMINAL
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XINHUAN-HS&theme=dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XINHUAN-HS&theme=dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XINHUAN-HS&theme=dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XINHUAN-HS&theme=dark" width="32%" />
+</p>
+
+🌐 NETWORK ACTIVITY
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
+</p>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XINHUAN-HS&theme=radical" width="100%" />
-</div>
+<div align="center">
++ SYSTEM STATUS: ONLINE
+! LAST UPDATE: 2026-06-21 10:00 UTC
+- WARNING: HIGH LEVEL OF CREATIVITY DETECTED
 
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30px"/>
-  ༺༃ঌ心༒幻໒༃༻
-</h3>
 
-<!-- 页脚波浪 -->
+// END OF TRANSMISSION //
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
