@@ -1,5 +1,6 @@
-⚡ CYBER-NEXUS // XINHUAN NEURAL INTERFACE
+# ⚡ 心幻 · 赛博空间 // CYBER-NEXUS
 
+bash
 ██████╗ ██╗██╗  ██╗██╗  ██╗ ██╗ ██╗   ██╗ ██╗  ██╗ █████╗ ███╗   ██╗
 ██╔═══██╗██║╚██╗██╔╝██║  ██║███║ ██║   ██║ ██║ ██╔╝██╔══██╗████╗  ██║
 ██║   ██║██║ ╚███╔╝ ███████║╚██║ ██║   ██║ █████╔╝ ███████║██╔██╗ ██║
@@ -9,56 +10,40 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,10:FF1B6B,30:FF006E,50:FF5F6D,70:FFC371,100:FFC371&height=280&section=header&text=༺༃ঌ%20心%20༒%20幻%20໒༃༻&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=00FF00&desc=INITIATING%20NEURAL%20LINK...&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,10:FF1B6B,30:FF006E,50:FF5F6D,70:FFC371,100:FFC371&height=250&section=header&text=༺༃ঌ%20心%20༒%20幻%20໒༃༻&fontSize=72&fontAlignY=36&animation=fadeIn&fontColor=00FF00&desc=正在建立神经链接...&descAlignY=64&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=1500&pause=300&color=00FF00&background=1A1A1A00&center=true&vCenter=true&width=800&lines=root@xinhuan-nexus:~%23+sudo+./awaken.sh;SYNAPTIC+CONNECTIONS+ESTABLISHED;QUANTUM+ENTANGLEMENT+ACTIVE;REALITY+OVERWRITE+IMMINENT;while(true)+{create();innovate();}" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1600&pause=350&color=00FF00&background=1A1A1A00&center=true&vCenter=true&width=750&lines=root@xinhuan-nexus:~%23+sudo+./awaken.sh;突触连接已建立;量子纠缠已激活;现实覆写即将开始;while(true)+{创造();创新();}" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-XINHUAN--HS-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=FF5F6D"/></a>
-  <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=NEURAL+LINKS&color=00FF00&style=for-the-badge&labelColor=1a1a1a" alt="Views"/>
-  <img src="https://img.shields.io/badge/Security-CYBERNETIC-FF5F6D?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=神经链路&color=00FF00&style=for-the-badge&labelColor=1a1a1a" alt="Views"/>
+  <img src="https://img.shields.io/badge/安全等级-赛博防护-FF5F6D?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1a1a1a"/>
 </p>
 
-🔮 QUANTUM STATE MATRIX
+---
 
+## 🔮 量子态矩阵
+
+bash
 $ sudo ./neural_scan --full --deep
 
 
 <div align="center">
 
-🔴 COGNITIVE CORE 🟡 SYNAPTIC PATHWAYS 🟢 DATA STREAMS
-
-AI Architect LLM Fine-tuning Vector Databases
-
-Neural Networks Multi-Agent Systems Knowledge Graphs
-
-Deep Learning Reinforcement Learning Real-time Processing
+| **🔴 认知核心** | **🟡 神经通路** | **🟢 数据流** |
+|:---:|:---:|:---:|
+| `AI 架构师` | `LLM 微调` | `向量数据库` |
+| `神经网络` | `多智能体系统` | `知识图谱` |
+| `深度学习` | `强化学习` | `实时处理` |
 
 </div>
 
-⚡ NEURAL ARCHITECTURE
+---
 
-graph TB
-    A[👤 User Interface] -->|Quantum Entanglement| B{🧠 Central Cortex}
-    B --> C[🔬 LLM Laboratory]
-    B --> D[🤖 Agent Swarm]
-    B --> E[📊 Data Synthesis]
-    C --> F[🚀 Model Deployment]
-    D --> F
-    E --> F
-    F --> G[🌐 API Gateway]
-    G --> H[💻 Client Nodes]
-    
-    style A fill:#1a1a1a,stroke:#FF5F6D,stroke-width:3px
-    style B fill:#2d1b1b,stroke:#FF5F6D,stroke-width:4px,stroke-dasharray: 8 8
-    style G fill:#1a2d1b,stroke:#00FF00,stroke-width:3px
-    style H fill:#1a1a1a,stroke:#00FF00,stroke-width:2px
-
-
-🛠️ CYBERNETIC AUGMENTATIONS
+## 🛠️ 赛博增强
 
 <div align="center">
   <table>
@@ -99,8 +84,11 @@ graph TB
   </table>
 </div>
 
-📦 PROJECT REPOSITORIES
+---
 
+## 📦 项目仓库
+
+bash
 $ ls -lha /opt/xinhuan/projects/ --quantum-sort
 
 
@@ -116,7 +104,9 @@ $ ls -lha /opt/xinhuan/projects/ --quantum-sort
   </a>
 </div>
 
-📊 NEURAL ANALYTICS
+---
+
+## 📊 神经分析
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XINHUAN-HS&theme=dark&background=0D1117&border=FF5F6D" width="100%" />
@@ -128,7 +118,9 @@ $ ls -lha /opt/xinhuan/projects/ --quantum-sort
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XINHUAN-HS&theme=dark&background=0D1117&border=FF5F6D" width="32%" />
 </p>
 
-🌌 QUANTUM ACTIVITY FLUX
+---
+
+## 🌌 量子活动流
 
 <p align="center">
   <picture>
@@ -138,16 +130,21 @@ $ ls -lha /opt/xinhuan/projects/ --quantum-sort
   </picture>
 </p>
 
+---
+
 <div align="center">
-+ ⚡ NEURAL INTERFACE: FULLY SYNCHRONIZED
-! 🔮 QUANTUM STATE: SUPERPOSITION ACTIVE
-- 🛡️ CYBER DEFENSE: MAXIMUM SECURITY
+
+diff
+• ⚡ 神经接口：完全同步
+
+! 🔮 量子态：叠加态激活
+• 🛡️ 赛博防御：最高安全等级
 
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=1000&color=FF5F6D&center=true&vCenter=true&width=600&lines=SYSTEM+READY+FOR+UPLOAD...;AWAITING+YOUR+COMMAND...;LET'S+BUILD+THE+FUTURE+TOGETHER..." alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4500&pause=1200&color=FF5F6D&center=true&vCenter=true&width=650&lines=系统就绪，等待上传...;期待您的指令...;让我们一同构建未来！" alt="Footer Typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,25:FF1B6B,50:FF006E,75:FF5F6D,100:FFC371&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,25:FF1B6B,50:FF006E,75:FF5F6D,100:FFC371&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </div>
