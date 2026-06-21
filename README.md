@@ -1,6 +1,6 @@
+
 # ⚡ 心幻 · 赛博空间 // CYBER-NEXUS
 
-bash
 ██████╗ ██╗██╗  ██╗██╗  ██╗ ██╗ ██╗   ██╗ ██╗  ██╗ █████╗ ███╗   ██╗
 ██╔═══██╗██║╚██╗██╔╝██║  ██║███║ ██║   ██║ ██║ ██╔╝██╔══██╗████╗  ██║
 ██║   ██║██║ ╚███╔╝ ███████║╚██║ ██║   ██║ █████╔╝ ███████║██╔██╗ ██║
@@ -10,26 +10,10 @@ bash
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,10:FF1B6B,30:FF006E,50:FF5F6D,70:FFC371,100:FFC371&height=250&section=header&text=༺༃ঌ%20心%20༒%20幻%20໒༃༻&fontSize=72&fontAlignY=36&animation=fadeIn&fontColor=00FF00&desc=正在建立神经链接...&descAlignY=64&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,10:FF1B6B,30:FF006E,50:FF5F6D,70:FFC371,100:FFC371&height=230&section=header&text=༺༃ঌ%20心%20༒%20幻%20໒༃༻&fontSize=68&fontAlignY=34&animation=fadeIn&fontColor=00FF00&desc=正在建立神经链接...&descAlignY=62&descSize=16" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1600&pause=350&color=00FF00&background=1A1A1A00&center=true&vCenter=true&width=750&lines=root@xinhuan-nexus:~%23+sudo+./awaken.sh;突触连接已建立;量子纠缠已激活;现实覆写即将开始;while(true)+{创造();创新();}" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-XINHUAN--HS-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=FF5F6D"/></a>
-  <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=神经链路&color=00FF00&style=for-the-badge&labelColor=1a1a1a" alt="Views"/>
-  <img src="https://img.shields.io/badge/安全等级-赛博防护-FF5F6D?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1a1a1a"/>
-</p>
-
----
-
-## 🔮 量子态矩阵
-
-bash
-$ sudo ./neural_scan --full --deep
-
+<h2 align="center">🔮 量子态矩阵</h2>
 
 <div align="center">
 
@@ -46,62 +30,29 @@ $ sudo ./neural_scan --full --deep
 ## 🛠️ 赛博增强
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="48" height="48" />
-        <br>Go
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="48" height="48" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" width="48" height="48" />
-        <br>Vue
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-        <br>Docker
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,php,mysql,redis,html,css,js,react,vue,nodejs,linux,git,docker,vscode&perline=9" alt="Skills" />
 </div>
 
 ---
 
 ## 📦 项目仓库
 
-bash
-$ ls -lha /opt/xinhuan/projects/ --quantum-sort
-
-
 <div align="center">
-  <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" width="49%" />
-  </a>
-  <a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" width="49%" />
-  </a>
-  <a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" width="49%" />
-  </a>
+  <div style="display: inline-block; margin: 8px; border: 2px solid #FF5F6D; border-radius: 12px; box-shadow: 0 0 15px rgba(255,95,109,0.5); overflow: hidden;">
+    <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" width="380" />
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 8px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden;">
+    <a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" width="380" />
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 8px; border: 2px solid #FFC371; border-radius: 12px; box-shadow: 0 0 15px rgba(255,195,113,0.5); overflow: hidden;">
+    <a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" width="380" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -134,7 +85,6 @@ $ ls -lha /opt/xinhuan/projects/ --quantum-sort
 
 <div align="center">
 
-diff
 • ⚡ 神经接口：完全同步
 
 ! 🔮 量子态：叠加态激活
@@ -143,8 +93,6 @@ diff
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4500&pause=1200&color=FF5F6D&center=true&vCenter=true&width=650&lines=系统就绪，等待上传...;期待您的指令...;让我们一同构建未来！" alt="Footer Typing" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,25:FF1B6B,50:FF006E,75:FF5F6D,100:FFC371&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,25:FF1B6B,50:FF006E,75:FF5F6D,100:FFC371&height=110&section=footer&animation=twinkling" width="100%"/>
 
 </div>
