@@ -5,16 +5,43 @@
   <!-- 动态打字效果 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=BACKEND+%7C+FRONTEND+%7C+FULLSTACK;AI+System+%7C+LLM+%7C+Database;心尘随风落,幻影逐云流)](https://git.io/typing-svg)
 
-  <!-- 社交链接 -->
+  <!-- 社交链接 & 访客统计 -->
   <p align="center">
     <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <!-- 如需添加邮箱或其他，取消注释即可 -->
     <!-- <a href="mailto:2757875964@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
   </p>
+  
+  <!-- 👁️ 访客统计 (新增) -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=PROFILE+VIEWS&color=FF5F6D&style=for-the-badge" alt="XINHUAN-HS" />
+  </p>
 </div>
 
 <!-- 分隔线 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+<!-- 🎵 Spotify 状态 (新增) -->
+<!-- 请将 YOUR_SPOTIFY_ID 替换为你的 Spotify 用户ID (在 Spotify 个人资料 URL 中可见) -->
+<!-- 如果不想使用，可以删除或注释掉这一段 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="28px"/>
+  正在播放
+</h2>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&unique=1&count=1&width=400" />
+</div>
+
+<br/>
+
+<!-- 🏆 Trophy 墙 (新增) -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/Ah0KfMlUPmzvHrUGqO/giphy.gif" width="28px"/>
+  成就殿堂
+</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XINHUAN-HS&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
+</div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="28px"/>
@@ -84,7 +111,10 @@
   <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
-  <a href="https://github.com/XINHUAN-HS/My_Web">
+  <a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=My_Web&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+  <a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=My_Web&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
@@ -112,7 +142,7 @@
 
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30px"/>
-  心怨逝水空余念,幻悔残云不向阳
+  ༺༃ঌ心༒幻໒༃༻
 </h3>
 
 <!-- 页脚波浪 -->
