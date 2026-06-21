@@ -8,11 +8,9 @@
   <!-- 社交链接 & 访客统计 -->
   <p align="center">
     <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <!-- 如需添加邮箱或其他，取消注释即可 -->
-    <!-- <a href="mailto:2757875964@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
   </p>
   
-  <!-- 👁️ 访客统计 (新增) -->
+  <!-- 👁️ 访客统计 -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=PROFILE+VIEWS&color=FF5F6D&style=for-the-badge" alt="XINHUAN-HS" />
   </p>
@@ -21,31 +19,9 @@
 <!-- 分隔线 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-<!-- 🎵 Spotify 状态 (新增) -->
-<!-- 请将 YOUR_SPOTIFY_ID 替换为你的 Spotify 用户ID (在 Spotify 个人资料 URL 中可见) -->
-<!-- 如果不想使用，可以删除或注释掉这一段 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="28px"/>
-  正在播放
-</h2>
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&unique=1&count=1&width=400" />
-</div>
-
-<br/>
-
-<!-- 🏆 Trophy 墙 (新增) -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Ah0KfMlUPmzvHrUGqO/giphy.gif" width="28px"/>
-  成就殿堂
-</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XINHUAN-HS&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
-</div>
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="28px"/>
-  关于 ༺༃ঌ心༒幻໒༃༻
+  关于'我'
 </h2>
 
 <table border="0" cellspacing="0" cellpadding="10" width="100%">
@@ -104,18 +80,18 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"/>
-  ༺༃ঌ心༒幻໒༃༻项目
+  '我'的项目
 </h2>
 
 <div align="center">
   <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
-  <a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=My_Web&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+<a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
-  <a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=My_Web&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+<a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
