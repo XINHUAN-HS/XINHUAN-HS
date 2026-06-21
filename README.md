@@ -8,7 +8,117 @@
   <!-- 社交链接 & 访客统计 -->
   <p align="center">
     <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-…  ༺༃ঌ心༒幻໒༃༻
+  </p>
+  
+  <!-- 👁️ 访客统计 -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=PROFILE+VIEWS&color=FF5F6D&style=for-the-badge" alt="XINHUAN-HS" />
+  </p>
+</div>
+
+<!-- 分隔线 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="28px"/>
+  关于'我'
+</h2>
+
+<table border="0" cellspacing="0" cellpadding="10" width="100%">
+<tr>
+<td width="34%" valign="top">
+
+> ### 🧠 大语言模型与 AI
+> 🔬 **LLM 训练与微调**  
+> 🤖 **多智能体系统架构**  
+> ⚡ **模型推理与部署**  
+> 📊 **RLHF 与强化学习**
+
+</td>
+<td width="34%" valign="top">
+
+> ### 🧪 深度学习与 CV/NLP
+> 🔍 **计算机视觉**  
+> 📝 **自然语言处理**  
+> 📈 **时序预测与异常检测**  
+> 🔄 **迁移学习**
+
+</td>
+<td width="32%" valign="top">
+
+> ### 💾 数据库与系统
+> 🛢️ **分布式数据库**  
+> 🔍 **向量数据库 (RAG)**  
+> 📈 **大数据处理**  
+> 🌐 **知识图谱**
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"/>
+  核心技术栈
+</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,php,mysql,redis,html,css,js,linux,git,docker,vscode&perline=9" />
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px"/>
+  社区数据
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XINHUAN-HS&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XINHUAN-HS&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XINHUAN-HS&theme=radical" width="32%" />
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"/>
+  '我'的项目
+</h2>
+
+<div align="center">
+  <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+<a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+<a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/XINHUAN-HS?tab=repositories">
+    <img src="https://img.shields.io/badge/查看更多项目-前往仓库-%23FF5F6D?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+<h2 align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25px"/>
+  贡献活动
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XINHUAN-HS&theme=radical" width="100%" />
+</div>
+
+<h3 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30px"/>
+  ༺༃ঌ心༒幻໒༃༻
 </h3>
 
 <!-- 页脚波浪 -->
