@@ -8,7 +8,7 @@
 ╚██████╔╝██║██╔╝ ██╗██║  ██║ ██║ ╚██████╔╝ ██║  ██╗██║  ██║██║ ╚████║
  ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝  ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
   </pre>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=2C9CDF&center=true&vCenter=true&width=800&lines=%7C;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=2C9CDF&center=true&vCenter=true&width=800&lines=BACKEND+%7C+FRONTEND+%7C+FULLSTACK;AI+System+%7C+LLM+%7C+Database;%E5%BF%83%E6%80%A8%E9%80%9D%E6%B0%B4%E7%A9%BA%E4%BD%99%E5%BF%B5%2C%E5%B9%BB%E6%82%94%E6%AE%8B%E4%BA%91%E4%B8%8D%E5%90%91%E9%98%B3)](https://readme-typing-svg.demolab.com/typing-svg)
   <p align="center">
     <a href="https://github.com/XINHUAN-HS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=XINHUAN-HS&label=PROFILE+VIEWS&color=FF5F6D&style=for-the-badge" alt="XINHUAN-HS" />
