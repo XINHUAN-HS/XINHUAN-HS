@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=༺༃ঌ心༒幻໒༃༻&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white&desc=心怨逝水空余念,幻悔残云不向阳&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=༺心༒幻༻&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white&desc=心怨逝水空余念,幻悔残云不向阳&descAlignY=60" />
   <pre style="font-family: monospace; color: #00FF00; background: #0D1117; padding: 10px; border-radius: 8px; display: inline-block;">
 ██████╗ ██╗██╗  ██╗██╗  ██╗ ██╗ ██╗   ██╗ ██╗  ██╗ █████╗ ███╗   ██╗
 ██╔═══██╗██║╚██╗██╔╝██║  ██║███║ ██║   ██║ ██║ ██╔╝██╔══██╗████╗  ██║
