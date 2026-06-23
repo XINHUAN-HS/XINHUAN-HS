@@ -163,16 +163,20 @@
   项目仓库
 </h2>
 <div align="center" >
-  <!-- 卡片1：白色边框 -->
-  <div style="display: inline-block; margin: 8px; min-height: 140px; border: 2px solid #ffffff; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden; background: #0D1117;">
+  <div style="display: inline-block; margin: 8px; min-height: 140px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden; background: #0D1117;">
     <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117"
            width="380"
            onerror="this.parentElement.innerHTML='<div style=\'width:380px;height:130px;display:flex;align-items:center;justify-content:center;color:#aaa;\'>❌ 卡片加载失败</div>'" />
     </a>
   </div>
-
-  <!-- 卡片2：绿色边框 -->
+  <div style="display: inline-block; margin: 8px; min-height: 140px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden; background: #0D1117;">
+    <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS.github.io&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117"
+           width="380"
+           onerror="this.parentElement.innerHTML='<div style=\'width:380px;height:130px;display:flex;align-items:center;justify-content:center;color:#aaa;\'>❌ 卡片加载失败</div>'" />
+    </a>
+  </div>
   <div style="display: inline-block; margin: 8px; min-height: 140px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden; background: #0D1117;">
     <a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117"
@@ -180,8 +184,6 @@
            onerror="this.parentElement.innerHTML='<div style=\'width:380px;height:130px;display:flex;align-items:center;justify-content:center;color:#aaa;\'>❌ 卡片加载失败</div>'" />
     </a>
   </div>
-
-  <!-- 卡片3：绿色边框 -->
   <div style="display: inline-block; margin: 8px; min-height: 140px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden; background: #0D1117;">
     <a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117"
