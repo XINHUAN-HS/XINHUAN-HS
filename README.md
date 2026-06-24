@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=༺心༒幻༻&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white&desc=心怨逝水空余念,幻悔残云不向阳&descAlignY=60" />
   <pre style="font-family: monospace; color: #00FF00; background: #0D1117; padding: 10px; border-radius: 8px; display: inline-block;">
@@ -162,36 +163,30 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"/>
   项目仓库
 </h2>
-<div align="center" >
-  <div style="display: inline-block; margin: 8px; min-height: 140px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden; background: #0D1117;">
-    <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117"
-           width="380"
-           onerror="this.parentElement.innerHTML='<div style=\'width:380px;height:130px;display:flex;align-items:center;justify-content:center;color:#aaa;\'>❌ 卡片加载失败</div>'" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 8px; min-height: 140px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden; background: #0D1117;">
-    <a href="https://github.com/XINHUAN-HS/XINHUAN-HS.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS.github.io&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117"
-           width="380"
-           onerror="this.parentElement.innerHTML='<div style=\'width:380px;height:130px;display:flex;align-items:center;justify-content:center;color:#aaa;\'>❌ 卡片加载失败</div>'" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 8px; min-height: 140px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden; background: #0D1117;">
-    <a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117"
-           width="380"
-           onerror="this.parentElement.innerHTML='<div style=\'width:380px;height:130px;display:flex;align-items:center;justify-content:center;color:#aaa;\'>❌ 卡片加载失败</div>'" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 8px; min-height: 140px; border: 2px solid #00FF00; border-radius: 12px; box-shadow: 0 0 15px rgba(0,255,0,0.5); overflow: hidden; background: #0D1117;">
-    <a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117"
-           width="380"
-           onerror="this.parentElement.innerHTML='<div style=\'width:380px;height:130px;display:flex;align-items:center;justify-content:center;color:#aaa;\'>❌ 卡片加载失败</div>'" />
-    </a>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/XINHUAN-HS/XINHUAN-HS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/XINHUAN-HS/XINHUAN-HS.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XINHUAN-HS.github.io&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/XINHUAN-HS/XinHuanNewTab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanNewTab&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/XINHUAN-HS/XinHuanToolKit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XINHUAN-HS&repo=XinHuanToolKit&theme=dark&hide_border=true&title_color=FF5F6D&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
 <div align="center" style="margin-top: 10px;">
   <a href="https://github.com/XINHUAN-HS?tab=repositories">
     <img src="https://img.shields.io/badge/查看更多项目-前往仓库-%23FF5F6D?style=for-the-badge&logo=github" />
